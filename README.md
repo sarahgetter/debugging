@@ -1,4 +1,4 @@
-# Python Application
+# Debugging Application
 
 ## Description
 A Python script that performs complex operations and demonstrates advanced debugging techniques, including nested function calls, exception handling, and multithreading.
