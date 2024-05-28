@@ -1,0 +1,15 @@
+# Ignore Python cache and bytecode files
+__pycache__
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE project files
+.idea/
+.vscode/
+
+# Ignore other unnecessary files
+.DS_Store
